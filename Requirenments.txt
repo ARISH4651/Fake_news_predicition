@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+ tfidfVectorizer
+ logistic regression
+nltk
+ stopwords
+ porterstemmer
