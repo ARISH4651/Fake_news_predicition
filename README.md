@@ -1,6 +1,6 @@
 # 📰 Fake News Prediction  
 
-This project is an attempt to build a Fake News Classifier using machine learning techniques.  
+This project is an attempt to build a Fake News prediction using machine learning techniques.  
 
 ## 📌 Overview  
 The model is trained on a labeled dataset of news articles (fake/real).  
